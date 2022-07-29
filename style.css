@@ -1,0 +1,56 @@
+#body{
+    background-color: grey;
+}
+
+#test{
+    text-align: center;
+    font-family: serif;
+    color: white;
+    letter-spacing: 2px;
+    font-size: 70px;
+    text-shadow: 5px 3px 55px rgb(45, 231, 57);
+    padding: 5px;
+    border: 2px lightskyblue;
+    border-radius: 30px;
+}
+
+#text{
+    text-align: center;
+    color: white;
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+#text2{
+    margin-top: 10%;
+    text-align: center;
+    font-family: Arial;
+    color: white;
+    letter-spacing: 4px;
+    text-shadow: 5px 3px 20px lightskyblue;
+}
+
+#b1{
+    text-align: center;
+    font-weight: bold;
+}
+
+#ttt {
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border: 2px lightskyblue;
+    font-family: serif;
+    border-radius: 30px;
+}
+
+#all{
+    padding: 5px;
+    border: 5px solid lightskyblue;
+    
+   font-family: serif;
+    border-radius: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+}
